@@ -4,7 +4,7 @@ Soul Runner marketing site
 
 Summary
 ---
-This repo contains the source code for the Soul Runner marketing site, and the netlify cms configuration.
+**Live editing preview and node integration coming soon.** This repo contains the source code for the Soul Runner marketing site, and the netlify cms configuration. 
 
 Local Development
 ---
